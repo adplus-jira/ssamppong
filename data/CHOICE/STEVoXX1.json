@@ -1,0 +1,130 @@
+{
+  "title": "밈 테스트",
+  "subTitle": "혹시.. 밈 잘 아세요?",
+  "gameId": "STEVoXX1",
+  "gameType": "CHOICE",
+  "description": "요즘 밈과 예전 유행했던 카톡 밈들을 퀴즈로 만들어봤습니다! 몇 개 까지 맞출 수 있을까요~?\n\n 사진 출처: freepik.com",
+  "createDate": "2024-06-25",
+  "imageSrc": "/images/CHOICE/STEVoXX1/thumbnail.png",
+  "detailImageSrc": "/images/CHOICE/STEVoXX1/detail.png",
+  "tags": [
+    "FRIEND_SHIP",
+    "FAMILY",
+    "IDOL",
+    "SIMPLE",
+    "STUDY",
+    "FUN",
+    "LIFE"
+  ],
+  "isImageQuiz": true,
+  "quiz": [
+    {
+      "question": "/images/CHOICE/STEVoXX1/mimi.png",
+      "correctAnswer": "넘어갈게요",
+      "answers": [
+        "정신을 놨네요",
+        "어이가 없네요",
+        "도라인가봐요",
+        "넘어갈게요"
+      ]
+    },
+    {
+      "question": "/images/CHOICE/STEVoXX1/lucky.png",
+      "correctAnswer": "럭키비키잔아",
+      "answers": [
+        "럭키잔아",
+        "럭키베키잖아",
+        "럭키베키잔아",
+        "럭키비키잖아",
+        "럭키비키잔아"
+      ]
+    },
+    {
+      "question": "/images/CHOICE/STEVoXX1/mat.png",
+      "correctAnswer": "맛꿀마",
+      "answers": [
+        "마꿀마",
+        "존~나 맛있네",
+        "마싯구마",
+        "맛꿀마"
+      ]
+    },
+    {
+      "question": "/images/CHOICE/STEVoXX1/cau.png",
+      "correctAnswer": "카우룽카우룽",
+      "answers": [
+        "가오리가오리",
+        "카울카울",
+        "캬우르캬우르",
+        "갸우룽갸우룽",
+        "카우룽카우룽"
+      ]
+    },
+    {
+      "question": "/images/CHOICE/STEVoXX1/skrr.png",
+      "correctAnswer": "스껄할래?",
+      "answers": [
+        "엑스할래?",
+        "맛저할래?",
+        "요리할래?",
+        "놀이할래?",
+        "스껄할래?"
+      ]
+    },
+    {
+      "question": "/images/CHOICE/STEVoXX1/sun.png",
+      "correctAnswer": "김선",
+      "answers": [
+        "할미",
+        "바다",
+        "힙한",
+        "청춘",
+        "김선"
+      ]
+    },
+    {
+      "question": "/images/CHOICE/STEVoXX1/hani.png",
+      "correctAnswer": "준비 갈 완료",
+      "answers": [
+        "먹자 밥 언니",
+        "웃겨 나 맞아",
+        "뭐해 또 오늘",
+        "사람 갈 호주",
+        "준비 갈 완료"
+      ]
+    },
+    {
+      "question": "/images/CHOICE/STEVoXX1/nono.png",
+      "correctAnswer": "이건안, 이지예",
+      "answers": [
+        "이건아, 이지예",
+        "예진이, 이건아",
+        "이예진, 이건아",
+        "이예건, 안이지",
+        "이건안, 이지예"
+      ]
+    },
+    {
+      "question": "/images/CHOICE/STEVoXX1/rock.png",
+      "correctAnswer": "묵찌빠",
+      "answers": [
+        "노가다",
+        "오페라",
+        "바텐더",
+        "발차기",
+        "묵찌빠"
+      ]
+    },
+    {
+      "question": "/images/CHOICE/STEVoXX1/yeji.png",
+      "correctAnswer": "예, 지랄마세요",
+      "answers": [
+        "지, 랄도풍년임",
+        "너, 제정신이냐",
+        "응, 그렇게만해",
+        "와, 미친놈인가",
+        "예, 지랄마세요"
+      ]
+    }
+  ]
+}

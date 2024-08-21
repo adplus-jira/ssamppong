@@ -1,0 +1,191 @@
+{
+  "title": "데이트 심리 테스트",
+  "subTitle": "데이트 중에 이런 상황이 발생한다면..?",
+  "gameId": "UDTac1iO",
+  "gameType": "MBTI",
+  "description": "커플이 된 지 얼마 안 된 우리 둘, 나의 성향을 한 번 알아보도록 하자! \n\n 사진 출처: freepik.com",
+  "createDate": "2024-06-26",
+  "imageSrc": "/images/MBTI/UDTac1iO/thumbnail.jpg",
+  "detailImageSrc": "/images/MBTI/UDTac1iO/detail.png",
+  "tags": [
+    "LOVE",
+    "FAMILY",
+    "LIFE",
+    "FUTURE",
+    "FUN",
+    "PERSONALITY",
+    "SIMPLE"
+  ],
+  "isImageQuiz": false,
+  "quiz": [
+    {
+      "question": "영화가 끝난 후 화장실 앞에서 기다리는데 친구를 만났다.",
+      "answers": [
+        {
+          "text": "애인이랑 같이 밥이나 한 끼 하자!!",
+          "type": "E",
+          "value": 3
+        },
+        {
+          "text": "애인이랑 데이트 중인데.. 누가 끼어드는 건 좀..",
+          "type": "I",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "question": "혼자 데이트를 준비하는 중",
+      "answers": [
+        {
+          "text": "앞머리를 잘랐는데 오른쪽이 좀 더 긴 거 같아.. 몰라줬으면 좋겠다...",
+          "type": "S",
+          "value": 3
+        },
+        {
+          "text": " 오늘 만나서 뭐 먹을까??",
+          "type": "N",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "question": "카페 데이트를 끝나는 중 나도 모르는 사이 신발끈이 풀렸다.",
+      "answers": [
+        {
+          "text": "신발끈이  풀린 걸 보면 오늘 싸운다는 건가?",
+          "type": "N",
+          "value": 3
+        },
+        {
+          "text": "애인이 실수로 카페에서 밟았나?",
+          "type": "S",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "question": "데이트 할 때",
+      "answers": [
+        {
+          "text": "홍대나 성수 가서 예쁜 옷 구경하기",
+          "type": "E",
+          "value": 2
+        },
+        {
+          "text": "카페가서 오순도순 이야기하기",
+          "type": "I",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "question": "애인이랑 싸웠을 때",
+      "answers": [
+        {
+          "text": "서로의 잘못을 말해주고 어떻게 나아 갈 것인 지 말해주는 남친",
+          "type": "T",
+          "value": 3
+        },
+        {
+          "text": "나의 마음을 먼저 헤아려주고 보듬어주는 애인",
+          "type": "F",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "question": "(남자: 면도 안 함, 여자: 화장 안 함) 한 겨울에 애인이 집 밖으로 나오라 한다면?",
+      "answers": [
+        {
+          "text": "좋긴 좋은데 차라리 미리 말을 하고 오지...",
+          "type": "T",
+          "value": 5
+        },
+        {
+          "text": "준비가 귀찮지만 나를 생각해주는 게 너무 예쁘다",
+          "type": "F",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "question": "데이트 전 날 자기 전",
+      "answers": [
+        {
+          "text": "내일 애인이랑 카페가서 브런치 먹어야지",
+          "type": "J",
+          "value": 2
+        },
+        {
+          "text": "내일 애인한테 맛있는 거 사줘야지",
+          "type": "P",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "question": "다음 달이 애인 생일이면?",
+      "answers": [
+        {
+          "text": "만날 때 마다 뭐 사줄 지 고민하고 찾아봄",
+          "type": "J",
+          "value": 2
+        },
+        {
+          "text": "어? 다음 달 생일이네 잊지 말아야지",
+          "type": "P",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "question": "여행갈 때 차 안에서",
+      "answers": [
+        {
+          "text": "신나는 노래 들으면서 즐기기",
+          "type": "E",
+          "value": 3
+        },
+        {
+          "text": "조용한 발라드 들으면서 얘기하기",
+          "type": "I",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "question": "애인이 화장실을 갔는데 너무 늦게 나온 상황",
+      "answers": [
+        {
+          "text": "안에서 무슨 일이 있는 거 아냐? 걱정되네",
+          "type": "N",
+          "value": 5
+        },
+        {
+          "text": "늦네.. 10분 쯤 됐으려나..",
+          "type": "S",
+          "value": 3
+        }
+      ]
+    }
+  ],
+  "results": {
+    "ENFP": "enfp.png",
+    "ENTP": "entp.png",
+    "ENTJ": "entj.png",
+    "ENFJ": "enfj.png",
+    "INFP": "infp.png",
+    "INTP": "intp.png",
+    "INTJ": "intj.png",
+    "INFJ": "infj.png",
+    "ESTP": "estp.png",
+    "ESFP": "esfp.png",
+    "ESTJ": "estj.png",
+    "ESFJ": "esfj.lpng",
+    "ISTP": "istp.png",
+    "ISFP": "isfp.png",
+    "ISTJ": "istj.png",
+    "ISFJ": "isfj.png"
+  },
+  "isImageResult": true
+}

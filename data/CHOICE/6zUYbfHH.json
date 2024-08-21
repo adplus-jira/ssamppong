@@ -1,0 +1,116 @@
+{
+  "title": "맞춤법 테스트",
+  "subTitle": "세종대왕이 노하셨다.",
+  "gameId": "6zUYbfHH",
+  "gameType": "CHOICE",
+  "description": "설마 하나라도 틀리겠어~? 그래도 저희 한국인이잖아요ㅎㅎ\n\n사진 출처: freepik.com",
+  "createDate": "2024-06-26",
+  "imageSrc": "/images/CHOICE/6zUYbfHH/thumbnail.png",
+  "detailImageSrc": "/images/CHOICE/6zUYbfHH/detail.png",
+  "tags": [
+    "FUN",
+    "JOB",
+    "SIMPLE",
+    "STUDY",
+    "LIFE"
+  ],
+  "isImageQuiz": false,
+  "quiz": [
+    {
+      "question": "다음 중 옳은 맞춤법을 고르세요.",
+      "correctAnswer": "섬찟섬찟한 느낌이 들어 도망쳤다.",
+      "answers": [
+        "섬짓섬짓한 느낌이 들어 도망쳤다.",
+        "섬찟섬찟한 느낌이 들어 도망쳤다."
+      ]
+    },
+    {
+      "question": "다음 중 옳은 맞춤법을 고르세요.",
+      "correctAnswer": "빈털터리가 되었다.",
+      "answers": [
+        "빈털털이가 되었다.",
+        "빈털터리가 되었다."
+      ]
+    },
+    {
+      "question": "다음 중 옳은 맞춤법을 고르세요.",
+      "correctAnswer": "그렇게 뛰어다니다간 넘어지기 십상이야.",
+      "answers": [
+        "그렇게 뛰어다니다간 넘어지기 쉽상이야.",
+        "그렇게 뛰어다니다간 넘어지기 십상이야."
+      ]
+    },
+    {
+      "question": "다음 중 옳은 맞춤법을 고르세요.",
+      "correctAnswer": "약속을 번번이 어기다.",
+      "answers": [
+        "약속을 번번히 어기다.",
+        "약속을 번번이 어기다."
+      ]
+    },
+    {
+      "question": "다음 중 옳은 맞춤법을 고르세요.",
+      "correctAnswer": "아름다운 음률에 맞추어 춤을 추었다.",
+      "answers": [
+        "아름다운 음율에 맞추어 춤을 추었다.",
+        "아름다운 음률에 맞추어 춤을 추었다."
+      ]
+    },
+    {
+      "question": "다음 중 옳은 맞춤법을 고르세요.",
+      "correctAnswer": "개방정 그만 떨어!",
+      "answers": [
+        "깨방정 그만 떨어!",
+        "개방정 그만 떨어!"
+      ]
+    },
+    {
+      "question": "다음 중 옳은 맞춤법을 고르세요.",
+      "correctAnswer": "사회에서 그 정도는 예삿일이다.",
+      "answers": [
+        "사회에서 그 정도는 예사일이다.",
+        "사회에서 그 정도는 예삿일이다."
+      ]
+    },
+    {
+      "question": "다음 중 옳은 맞춤법을 고르세요.",
+      "correctAnswer": "과거에 얽매이다.",
+      "answers": [
+        "과거에 얽메이다.",
+        "과거에 얽매이다."
+      ]
+    },
+    {
+      "question": "다음 중 옳은 맞춤법을 고르세요.",
+      "correctAnswer": "그 남자가 웃으면서 금이빨이 번쩍였다.",
+      "answers": [
+        "그 남자가 웃으면서 금니빨이 번쩍였다.",
+        "그 남자가 웃으면서 금이빨이 번쩍였다."
+      ]
+    },
+    {
+      "question": "다음 중 옳은 맞춤법을 고르세요.",
+      "correctAnswer": "그런다고 내가 그 빵을 먹을쏘냐?",
+      "answers": [
+        "그런다고 내가 그 빵을 먹을소냐?",
+        "그런다고 내가 그 빵을 먹을쏘냐?"
+      ]
+    },
+    {
+      "question": "다음 중 옳은 맞춤법을 고르세요.",
+      "correctAnswer": "집 뒤뜰에 장독대가 있다.",
+      "answers": [
+        "집 뒷뜰에 장독대가 있다.",
+        "집 뒤뜰에 장독대가 있다."
+      ]
+    },
+    {
+      "question": "다음 중 옳은 맞춤법을 고르세요.",
+      "correctAnswer": "반복되는 생활에 싫증을 느꼈다.",
+      "answers": [
+        "반복되는 생활에 실증을 느꼈다.",
+        "반복되는 생활에 싫증을 느꼈다."
+      ]
+    }
+  ]
+}
