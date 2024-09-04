@@ -14,10 +14,10 @@
     "STUDY",
     "LIFE"
   ],
-  "isImageQuiz": false,
   "quiz": [
     {
       "question": "다음 중 옳은 맞춤법을 고르세요.",
+      "questionImage": "",
       "correctAnswer": "섬찟섬찟한 느낌이 들어 도망쳤다.",
       "answers": [
         "섬짓섬짓한 느낌이 들어 도망쳤다.",
@@ -26,6 +26,7 @@
     },
     {
       "question": "다음 중 옳은 맞춤법을 고르세요.",
+      "questionImage": "",
       "correctAnswer": "빈털터리가 되었다.",
       "answers": [
         "빈털털이가 되었다.",
@@ -34,6 +35,7 @@
     },
     {
       "question": "다음 중 옳은 맞춤법을 고르세요.",
+      "questionImage": "",
       "correctAnswer": "그렇게 뛰어다니다간 넘어지기 십상이야.",
       "answers": [
         "그렇게 뛰어다니다간 넘어지기 쉽상이야.",
@@ -42,6 +44,7 @@
     },
     {
       "question": "다음 중 옳은 맞춤법을 고르세요.",
+      "questionImage": "",
       "correctAnswer": "약속을 번번이 어기다.",
       "answers": [
         "약속을 번번히 어기다.",
@@ -50,6 +53,7 @@
     },
     {
       "question": "다음 중 옳은 맞춤법을 고르세요.",
+      "questionImage": "",
       "correctAnswer": "아름다운 음률에 맞추어 춤을 추었다.",
       "answers": [
         "아름다운 음율에 맞추어 춤을 추었다.",
@@ -58,6 +62,7 @@
     },
     {
       "question": "다음 중 옳은 맞춤법을 고르세요.",
+      "questionImage": "",
       "correctAnswer": "개방정 그만 떨어!",
       "answers": [
         "깨방정 그만 떨어!",
@@ -66,6 +71,7 @@
     },
     {
       "question": "다음 중 옳은 맞춤법을 고르세요.",
+      "questionImage": "",
       "correctAnswer": "사회에서 그 정도는 예삿일이다.",
       "answers": [
         "사회에서 그 정도는 예사일이다.",
@@ -74,6 +80,7 @@
     },
     {
       "question": "다음 중 옳은 맞춤법을 고르세요.",
+      "questionImage": "",
       "correctAnswer": "과거에 얽매이다.",
       "answers": [
         "과거에 얽메이다.",
@@ -82,6 +89,7 @@
     },
     {
       "question": "다음 중 옳은 맞춤법을 고르세요.",
+      "questionImage": "",
       "correctAnswer": "그 남자가 웃으면서 금이빨이 번쩍였다.",
       "answers": [
         "그 남자가 웃으면서 금니빨이 번쩍였다.",
@@ -90,6 +98,7 @@
     },
     {
       "question": "다음 중 옳은 맞춤법을 고르세요.",
+      "questionImage": "",
       "correctAnswer": "그런다고 내가 그 빵을 먹을쏘냐?",
       "answers": [
         "그런다고 내가 그 빵을 먹을소냐?",
@@ -98,6 +107,7 @@
     },
     {
       "question": "다음 중 옳은 맞춤법을 고르세요.",
+      "questionImage": "",
       "correctAnswer": "집 뒤뜰에 장독대가 있다.",
       "answers": [
         "집 뒷뜰에 장독대가 있다.",
@@ -106,6 +116,7 @@
     },
     {
       "question": "다음 중 옳은 맞춤법을 고르세요.",
+      "questionImage": "",
       "correctAnswer": "반복되는 생활에 싫증을 느꼈다.",
       "answers": [
         "반복되는 생활에 실증을 느꼈다.",

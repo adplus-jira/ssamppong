@@ -16,10 +16,10 @@
     "FUN",
     "LIFE"
   ],
-  "isImageQuiz": true,
   "quiz": [
     {
-      "question": "/images/CHOICE/STEVoXX1/mimi.png",
+      "question": "",
+      "questionImage": "/images/CHOICE/STEVoXX1/mimi.png",
       "correctAnswer": "넘어갈게요",
       "answers": [
         "정신을 놨네요",
@@ -29,7 +29,8 @@
       ]
     },
     {
-      "question": "/images/CHOICE/STEVoXX1/lucky.png",
+      "question": "",
+      "questionImage": "/images/CHOICE/STEVoXX1/lucky.png",
       "correctAnswer": "럭키비키잔아",
       "answers": [
         "럭키잔아",
@@ -40,7 +41,8 @@
       ]
     },
     {
-      "question": "/images/CHOICE/STEVoXX1/mat.png",
+      "question": "",
+      "questionImage": "/images/CHOICE/STEVoXX1/mat.png",
       "correctAnswer": "맛꿀마",
       "answers": [
         "마꿀마",
@@ -50,7 +52,8 @@
       ]
     },
     {
-      "question": "/images/CHOICE/STEVoXX1/cau.png",
+      "question": "",
+      "questionImage": "/images/CHOICE/STEVoXX1/cau.png",
       "correctAnswer": "카우룽카우룽",
       "answers": [
         "가오리가오리",
@@ -61,7 +64,8 @@
       ]
     },
     {
-      "question": "/images/CHOICE/STEVoXX1/skrr.png",
+      "question": "",
+      "questionImage": "/images/CHOICE/STEVoXX1/skrr.png",
       "correctAnswer": "스껄할래?",
       "answers": [
         "엑스할래?",
@@ -72,7 +76,8 @@
       ]
     },
     {
-      "question": "/images/CHOICE/STEVoXX1/sun.png",
+      "question": "",
+      "questionImage": "/images/CHOICE/STEVoXX1/sun.png",
       "correctAnswer": "김선",
       "answers": [
         "할미",
@@ -83,7 +88,8 @@
       ]
     },
     {
-      "question": "/images/CHOICE/STEVoXX1/hani.png",
+      "question": "",
+      "questionImage": "/images/CHOICE/STEVoXX1/hani.png",
       "correctAnswer": "준비 갈 완료",
       "answers": [
         "먹자 밥 언니",
@@ -94,7 +100,8 @@
       ]
     },
     {
-      "question": "/images/CHOICE/STEVoXX1/nono.png",
+      "question": "",
+      "questionImage": "/images/CHOICE/STEVoXX1/nono.png",
       "correctAnswer": "이건안, 이지예",
       "answers": [
         "이건아, 이지예",
@@ -105,7 +112,8 @@
       ]
     },
     {
-      "question": "/images/CHOICE/STEVoXX1/rock.png",
+      "question": "",
+      "questionImage": "/images/CHOICE/STEVoXX1/rock.png",
       "correctAnswer": "묵찌빠",
       "answers": [
         "노가다",
@@ -116,7 +124,8 @@
       ]
     },
     {
-      "question": "/images/CHOICE/STEVoXX1/yeji.png",
+      "question": "",
+      "questionImage": "/images/CHOICE/STEVoXX1/yeji.png",
       "correctAnswer": "예, 지랄마세요",
       "answers": [
         "지, 랄도풍년임",

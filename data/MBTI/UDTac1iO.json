@@ -16,10 +16,10 @@
     "PERSONALITY",
     "SIMPLE"
   ],
-  "isImageQuiz": false,
   "quiz": [
     {
       "question": "영화가 끝난 후 화장실 앞에서 기다리는데 친구를 만났다.",
+      "questionImage": "",
       "answers": [
         {
           "text": "애인이랑 같이 밥이나 한 끼 하자!!",
@@ -35,6 +35,7 @@
     },
     {
       "question": "혼자 데이트를 준비하는 중",
+      "questionImage": "",
       "answers": [
         {
           "text": "앞머리를 잘랐는데 오른쪽이 좀 더 긴 거 같아.. 몰라줬으면 좋겠다...",
@@ -50,6 +51,7 @@
     },
     {
       "question": "카페 데이트를 끝나는 중 나도 모르는 사이 신발끈이 풀렸다.",
+      "questionImage": "",
       "answers": [
         {
           "text": "신발끈이  풀린 걸 보면 오늘 싸운다는 건가?",
@@ -65,6 +67,7 @@
     },
     {
       "question": "데이트 할 때",
+      "questionImage": "",
       "answers": [
         {
           "text": "홍대나 성수 가서 예쁜 옷 구경하기",
@@ -80,6 +83,7 @@
     },
     {
       "question": "애인이랑 싸웠을 때",
+      "questionImage": "",
       "answers": [
         {
           "text": "서로의 잘못을 말해주고 어떻게 나아 갈 것인 지 말해주는 남친",
@@ -95,6 +99,7 @@
     },
     {
       "question": "(남자: 면도 안 함, 여자: 화장 안 함) 한 겨울에 애인이 집 밖으로 나오라 한다면?",
+      "questionImage": "",
       "answers": [
         {
           "text": "좋긴 좋은데 차라리 미리 말을 하고 오지...",
@@ -110,6 +115,7 @@
     },
     {
       "question": "데이트 전 날 자기 전",
+      "questionImage": "",
       "answers": [
         {
           "text": "내일 애인이랑 카페가서 브런치 먹어야지",
@@ -125,6 +131,7 @@
     },
     {
       "question": "다음 달이 애인 생일이면?",
+      "questionImage": "",
       "answers": [
         {
           "text": "만날 때 마다 뭐 사줄 지 고민하고 찾아봄",
@@ -140,6 +147,7 @@
     },
     {
       "question": "여행갈 때 차 안에서",
+      "questionImage": "",
       "answers": [
         {
           "text": "신나는 노래 들으면서 즐기기",
@@ -155,6 +163,7 @@
     },
     {
       "question": "애인이 화장실을 갔는데 너무 늦게 나온 상황",
+      "questionImage": "",
       "answers": [
         {
           "text": "안에서 무슨 일이 있는 거 아냐? 걱정되네",
@@ -186,6 +195,5 @@
     "ISFP": "isfp.png",
     "ISTJ": "istj.png",
     "ISFJ": "isfj.png"
-  },
-  "isImageResult": true
+  }
 }
