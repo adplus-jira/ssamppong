@@ -1,0 +1,52 @@
+{
+  "title": "테스트 밸런스게임",
+  "subTitle": "테스트 밸런스 게임 입니다.",
+  "gameId": "UJEZUc4g",
+  "gameType": "BALANCE",
+  "description": "테스트 밸런스 게임하실래요??",
+  "createDate": "2024-09-06",
+  "tags": [
+    "FAMILY",
+    "FOOD",
+    "FUN"
+  ],
+  "quiz": [
+    {
+      "question": "11111",
+      "questionImage": "/images/BALANCE/UJEZUc4g/image_1.png",
+      "answers": [
+        {
+          "text": "11111"
+        },
+        {
+          "text": "11111"
+        }
+      ]
+    },
+    {
+      "question": "2222",
+      "questionImage": "/images/BALANCE/UJEZUc4g/image_2.png",
+      "answers": [
+        {
+          "text": "2222222"
+        },
+        {
+          "text": "22222"
+        }
+      ]
+    },
+    {
+      "question": "3333",
+      "questionImage": "/images/BALANCE/UJEZUc4g/image_3.png",
+      "answers": [
+        {
+          "text": "33"
+        },
+        {
+          "text": "3333"
+        }
+      ]
+    }
+  ],
+  "resultImage": "/images/BALANCE/UJEZUc4g/background.png"
+}

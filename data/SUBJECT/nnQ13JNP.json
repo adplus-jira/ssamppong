@@ -1,0 +1,45 @@
+{
+  "title": "주관식 테스트",
+  "subTitle": "주관식 퀴즈 테스트입니다.",
+  "gameId": "nnQ13JNP",
+  "gameType": "SUBJECT",
+  "description": "주관식 퀴즈 테스트ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ",
+  "createDate": "2024-09-06",
+  "tags": [
+    "FRIEND_SHIP",
+    "FUTURE",
+    "MUSIC",
+    "ANIMAL",
+    "LIFE",
+    "DREAM",
+    "IDOL"
+  ],
+  "quiz": [
+    {
+      "question": "111111",
+      "questionImage": "/images/SUBJECT/nnQ13JNP/image_1.png",
+      "answers": [
+        "111"
+      ]
+    },
+    {
+      "question": "222",
+      "questionImage": "",
+      "answers": [
+        "2222",
+        "2",
+        "22",
+        "222"
+      ]
+    },
+    {
+      "question": "333",
+      "questionImage": "/images/SUBJECT/nnQ13JNP/image_3.png",
+      "answers": [
+        "1244",
+        "333",
+        "124"
+      ]
+    }
+  ]
+}

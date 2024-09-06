@@ -1,0 +1,35 @@
+{
+  "title": "OX 퀴즈 테스트",
+  "subTitle": "OX 퀴즈 테스트",
+  "gameId": "tgR2ffHX",
+  "gameType": "OX",
+  "description": "OXOXOXOXOXOXOXOOXOXO",
+  "createDate": "2024-09-06",
+  "tags": [
+    "LOVE",
+    "FRIEND_SHIP",
+    "FAMILY",
+    "FOOD",
+    "FUN",
+    "EMOTION",
+    "PERSONALITY",
+    "STUDY"
+  ],
+  "quiz": [
+    {
+      "question": "11111",
+      "questionImage": "/images/OX/tgR2ffHX/image_1.png",
+      "answers": false
+    },
+    {
+      "question": "2222",
+      "questionImage": "/images/OX/tgR2ffHX/image_2.png",
+      "answers": true
+    },
+    {
+      "question": "333",
+      "questionImage": "/images/OX/tgR2ffHX/image_3.png",
+      "answers": true
+    }
+  ]
+}
