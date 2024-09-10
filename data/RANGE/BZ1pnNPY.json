@@ -1,0 +1,85 @@
+{
+  "title": "범위형게임 테스트",
+  "subTitle": "범위형게임 테스트입니다.",
+  "gameId": "BZ1pnNPY",
+  "gameType": "RANGE",
+  "description": "범위형게임 테스트~!~!~!범위형게임 테스트~!~!~!범위형게임 테스트~!~!~!범위형게임 테스트~!~!~!범위형게임 테스트~!~!~!",
+  "createDate": "2024-09-10",
+  "tags": [
+    "FRIEND_SHIP",
+    "MONEY",
+    "SIMPLE",
+    "PERSONALITY",
+    "FAMILY",
+    "FUTURE",
+    "MOVIE",
+    "STUDY"
+  ],
+  "quiz": [
+    {
+      "question": "ㅅㅅㅅㅅㅅ",
+      "questionImage": "/images/RANGE/BZ1pnNPY/image_1.png",
+      "answers": [
+        "ㅅㅅㅅㅅㅅ",
+        "ㅅㅅㅅ"
+      ],
+      "values": [
+        1,
+        4
+      ]
+    },
+    {
+      "question": "222222",
+      "questionImage": "/images/RANGE/BZ1pnNPY/image_2.png",
+      "answers": [
+        "123123",
+        "123123"
+      ],
+      "values": [
+        1,
+        3
+      ]
+    },
+    {
+      "question": "1241241",
+      "questionImage": "/images/RANGE/BZ1pnNPY/image_3.png",
+      "answers": [
+        "124124",
+        "12412414214"
+      ],
+      "values": [
+        1,
+        1
+      ]
+    },
+    {
+      "question": "5555",
+      "questionImage": "",
+      "answers": [
+        "124124",
+        "12412515"
+      ],
+      "values": [
+        1,
+        2
+      ]
+    }
+  ],
+  "results": [
+    {
+      "startPoint": 1,
+      "endPoint": 3,
+      "resultImage": "/images/RANGE/BZ1pnNPY/result_1.png"
+    },
+    {
+      "startPoint": 3,
+      "endPoint": 5,
+      "resultImage": "/images/RANGE/BZ1pnNPY/result_2.png"
+    },
+    {
+      "startPoint": 6,
+      "endPoint": 9,
+      "resultImage": "/images/RANGE/BZ1pnNPY/result_3.png"
+    }
+  ]
+}
